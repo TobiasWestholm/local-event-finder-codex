@@ -10,26 +10,29 @@ The scanner can support any number of user-defined standard locations. There mus
 
 The user defines standard locations and provides primary sources for them. Do not invent primary sources for a standard location.
 
-Default location: Example City.
+Default location: <PLACEHOLDER>Example City.</PLACEHOLDER>
 
 Current standard locations:
-
+<PLACEHOLDER>
 - Example City.
 - Optional Second Location.
+</PLACEHOLDER>
 
 If the user does not specify a location when asking for suggestions, use the default location.
 
 If the requested location has primary sources below, check those first. If the requested location has no primary sources, or is not a standard location yet, explore public event sources for that location and keep source links for every candidate.
 
+<PLACEHOLDER>
 ## Example City
 
 Primary sources:
-
 | Name | URL | Type | Notes |
 | --- | --- | --- | --- |
 | Example Municipal Events | https://example.com/events | Public event listing | Replace with the user's preferred broad local event source. |
 | Example Ticketing Search | https://example.com/search | Ticketing and event listing | Replace with a ticketing, community, venue, or event platform source scoped to this location. |
+</PLACEHOLDER>
 
+<PLACEHOLDER>
 ## Optional Second Location
 
 Primary sources:
@@ -37,6 +40,7 @@ Primary sources:
 | Name | URL | Type | Notes |
 | --- | --- | --- | --- |
 | Example Second Location Events | https://example.com/second-location/events | Public event listing | Replace or delete this section depending on the user's setup. |
+</PLACEHOLDER>
 
 ## Source Rules
 
