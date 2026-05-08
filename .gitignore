@@ -1,0 +1,7 @@
+# Local user configuration
+/preferences/taste-profile.md
+/preferences/sources.md
+
+# Runtime outputs
+/runs/*.md
+!/runs/README.md
