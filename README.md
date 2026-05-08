@@ -1,4 +1,4 @@
-# Event Scanner Runtime
+# Local event finder - Codex native
 
 A Codex-native runtime for discovering, scoring, and shortlisting events from user-provided preferences.
 
