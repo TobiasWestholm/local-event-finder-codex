@@ -1,8 +1,8 @@
 # Event Scanner Runtime
 
-A Codex-native runtime for discovering, scoring, and shortlisting events from user-provided sources and public event listings.
+A Codex-native runtime for discovering, scoring, and shortlisting events from user-provided preferences.
 
-Supports calendar integration.
+Supports optional calendar integration.
 
 ## Setup
 
